@@ -1,7 +1,7 @@
 # Task-2
 
 Step 1: Data Collection
-I collected a dataset with detailed information about "Spotify Features". The dataset included fields like genre, artist name, track name, popularity, acousticness, energy, danceability, valence, loudness, tempo, and time signature.
+I collected a dataset with detailed information about "SpotifyFeatures". The dataset included fields like genre, artist name, track name, popularity, acousticness, energy, danceability, valence, loudness, tempo, and time signature.
 
 Step 2: Data Cleaning and Preparation
 I used Power Query in Power BI to clean the dataset by:
